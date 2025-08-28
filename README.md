@@ -6,6 +6,8 @@
   <img src="img/3.jpg" alt="SH TERATEE JAYAAA 3" height="200"/>
 </p>
 
+---
+
 ## STK PO TERATE LEK?
 
 <p align="center">
@@ -15,7 +17,9 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-### hubungi saya
+---
+
+### 📬 hubungi saya
 <p align="center">
   <a href="https://www.instagram.com/raaa_fyy/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -24,3 +28,5 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
+---
