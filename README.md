@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-![SH TERATEE JAYAAA](img/1.jpg) ![SH TERATEE JAYAAA 2](img/2.jpg)
+![SH TERATEE JAYAAA](img/1.jpg) ![SH TERATEE JAYAAA 2](img/2.jpg) ![SH TERATEE JAYAAA 2](img/3.jpg)
 
 ## STK PO TERATE LEK?
 
