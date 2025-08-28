@@ -1,4 +1,4 @@
-## Hi there 👋
+## STK PO TERATE LEK?
 
 <!--
 **ranggashter/ranggashter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+! [SH TERATE JAYAA]  (https://tse1.mm.bing.net/th/id/OIP.kVN-7Bu51n2WQvbUIbJqNgHaJg?pid=Api&P=0&h=180)
