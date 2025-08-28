@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-! [SH TERATE JAYAA]  (https://tse1.mm.bing.net/th/id/OIP.kVN-7Bu51n2WQvbUIbJqNgHaJg?pid=Api&P=0&h=180)
+![SH TERATEE JAYAAA] (img/1.jpg)
