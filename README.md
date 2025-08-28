@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![SH TERATEE JAYAAA] (img/1.jpg)
+![SH TERATEE JAYAAA](img/1.jpg)
