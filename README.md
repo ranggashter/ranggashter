@@ -32,10 +32,6 @@
   </a>
 </p>
 
----
-
-### 🐍 Snake Animation
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ranggashter/ranggashter/output/snake.svg" alt="Snake animation" />
 </p>
